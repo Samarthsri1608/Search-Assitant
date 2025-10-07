@@ -35,8 +35,8 @@ It provides concise, factual answers along with the list of sources used — a t
 
 ```bash
 # Clone the repository
-git clone <change>
-cd ai-search-assistant
+git clone https://github.com/Samarthsri1608/Search-Assitant.git
+cd Search-Assistant
 
 # Install dependencies
 pip install -r requirements.txt
